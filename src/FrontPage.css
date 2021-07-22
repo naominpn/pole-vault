@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.front-page .heading{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(65, 65, 65);
+}
+
+.front-page-center {
+    margin: auto;
+    padding: 2% 0;
+    width: 50%;
+    background-color: rgba(255,255,255, 0.75);
+    border-radius: 20px;
+
+}
+
+.front-page{
+    padding: 28% 0;
+    background-image: URL(https://www.1843magazine.com/sites/default/files/styles/il_manual_crop_16_9/public/BO-OVERLAY-NEW.jpg);
+    background-size: cover;
+}

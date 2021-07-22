@@ -1,0 +1,6 @@
+.bar-wrapper .bar {
+    width: 80%;
+    background-color: greenyellow;
+    height: 20px;
+    transition: width 0.3s linear;
+}

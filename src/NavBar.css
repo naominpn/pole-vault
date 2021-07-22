@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.title{
+    font-family: 'Dancing Script', cursive;
+}
+
+.header{
+    height: 200px;
+    background-image: url(https://www.thesportspirit.com/wp-content/uploads/elementor/thumbs/sensual-blond-female-pole-dancing-W44957R-p2r2xgr3g5qiq3znt569mdhrnz12bhmf310jg4521s.jpg);
+    opacity: 0.5;
+    background-position-y: -140px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

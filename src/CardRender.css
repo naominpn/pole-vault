@@ -1,0 +1,13 @@
+.card img{
+    width: 100%;
+}
+
+.card label{
+    padding: 5%;
+}
+
+.card{
+    text-align: center;
+    width: 300px;
+    box-shadow: 5px 5px 10px #aaaaaa;
+}

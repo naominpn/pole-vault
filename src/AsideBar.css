@@ -1,0 +1,19 @@
+.aside{
+    border: 1px solid red;
+    width: 10%;
+    padding-top: 3%;
+}
+
+li{
+    list-style-type: none;
+}
+
+.aside ul{
+    padding: 0;
+}
+
+.asidebar-heading{
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 1%;
+}
